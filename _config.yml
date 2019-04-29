@@ -115,7 +115,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:mkim14@stanford.edu
-    - label: "Naver Algorithm Blog (in Korean)"
+    - label: "Algorithmic problem solving blog"
       icon: "fas fa-fw fa-link"
       url: "https://blog.naver.com/programmer18"
     - label: "Twitter"
