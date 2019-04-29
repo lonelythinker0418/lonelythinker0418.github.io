@@ -192,10 +192,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+markdown: kramdown
 mathjax: true
 highlighter: rouge
 lsi: false
