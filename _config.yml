@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Luke Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Stanford Math Major."
+  bio              : "Stanford Math Major. Interested in problem solving, Statistics, Game development and Hacking."
   location         : "Palo Alto, CA"
   email            : "mkim14@stanford.edu" 
   links:
