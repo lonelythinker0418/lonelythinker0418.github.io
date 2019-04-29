@@ -130,7 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/puzzle_collector/"
-
+    - label: "Youtube
+      icon: "fab fa-fw fa-youtube-square" 
+      url: "https://www.youtube.com/channel/UCFst1-f3Waa5SwUYE1ihVvQ?view_as=subscriber" 
 # Site Footer
 footer:
   links:
@@ -152,7 +154,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+      
 
 # Reading Files
 include:
