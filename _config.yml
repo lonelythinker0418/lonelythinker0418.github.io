@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Luke Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Problem Solver, studying Mathematics and Computer Science"
+  bio              : "Problem Solver"
   location         : "Stanford, CA"
   email            : "mkim14@stanford.edu" 
   links:
