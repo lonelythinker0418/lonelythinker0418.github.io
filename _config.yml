@@ -109,7 +109,7 @@ author:
   name             : "Luke Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Problem Solver, studying Mathematics and Computer Science"
-  location         : "Palo Alto, CA"
+  location         : "Stanford, CA"
   email            : "mkim14@stanford.edu" 
   links:
     - label: "Email"
