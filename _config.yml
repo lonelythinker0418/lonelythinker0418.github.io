@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Luke Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Stanford Math Major. <a href = "blog.naver.com/programmer18"> My algorithm blog </a>"
   location         : "Palo Alto, CA"
   email            : "mkim14@stanford.edu" 
   links:
