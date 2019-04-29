@@ -115,7 +115,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:mkim14@stanford.edu
-    - label: "Algorithmic problem solving blog"
+    - label: "Algorithm Blog"
       icon: "fas fa-fw fa-link"
       url: "https://blog.naver.com/programmer18"
     - label: "Twitter"
